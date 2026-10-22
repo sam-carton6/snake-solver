@@ -1,5 +1,5 @@
 ---
-modules: [software]
+modules: [software, experiment]
 status: active
 summary: A homemade Snake game in Python, plus solvers that finish it in as few moves as possible.
 runs: local
